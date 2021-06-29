@@ -43,7 +43,9 @@
       <div class="col">
         <div class="card h-70">
           <a href="detail2.html" target="_blank">
+          <?php for( $i = 0; $i < 2; $i++) { ?>
             <img src="img/Sugoca-Card.jpg" class="card-img-top" target="_blank" />
+            <?php } ?>
           <div class="card-body">
             <h5 class="card-title">Sugocaカード</h5>
             <p class="card-text">交通系icカード</p>
@@ -53,7 +55,9 @@
       <div class="col">
         <div class="card h-70">
           <a href="detail3.html" target="_blank">
+          <?php for( $i = 0; $i < 2; $i++) { ?>
             <img src="img/6.jpg" class="card-img-top" target="_blank" />
+            <?php } ?>
           <div class="card-body">
             <h5 class="card-title">Suicaカード</h5>
             <p class="card-text">JR東日本の交通系icカード</p>
@@ -63,7 +67,9 @@
       <div class="col">
         <div class="card h-70">
           <a href="detail4.html" target="_blank">
+          <?php for( $i = 0; $i < 2; $i++) { ?>
             <img src="img/master_gold_NEW_350.jpg.png" class="card-img-top" target="_blank" />
+            <?php } ?>
           <div class="card-body">
             <h5 class="card-title">dカード</h5>
             <p class="card-text">docomoのクレジットカード</p>
@@ -73,7 +79,9 @@
       <div class="col">
         <div class="card h-70">
           <a href="detail5.html" target="_blank">
+          <?php for( $i = 0; $i < 2; $i++) { ?>
             <img src="img/1280px-ヨドバシゴールドポイントカード.png" class="card-img-top" target="_blank" />
+            <?php } ?>
           <div class="card-body">
             <h5 class="card-title">ヨドバシカード</h5>
             <p class="card-text">ヨドバシのゴールドポイントカード</p>
@@ -83,7 +91,9 @@
       <div class="col">
         <div class="card h-70">
           <a href="detail6.html" target="_blank">
+          <?php for( $i = 0; $i < 2; $i++) { ?>
             <img src="img/p_visa_front_rp_e_bisness_touch.png" class="card-img-top" target="_blank" />
+            <?php } ?>
           <div class="card-body">
             <h5 class="card-title">楽天カード</h5>
             <p class="card-text">楽天のビジネスカード</p>
@@ -93,7 +103,9 @@
       <div class="col">
         <div class="card h-70">
           <a href="detail7.html" target="_blank">
+          <?php for( $i = 0; $i < 2; $i++) { ?>
             <img src="img/32.jpg" class="card-img-top" target="_blank" />
+            <?php } ?>
           <div class="card-body">
             <h5 class="card-title">Tポイントカード</h5>
             <p class="card-text">Tポイントカード</p>
@@ -103,7 +115,9 @@
       <div class="col">
         <div class="card h-70">
           <a href="detail8.html" target="_blank">
+          <?php for( $i = 0; $i < 2; $i++) { ?>
             <img src="img/01-165.jpg" class="card-img-top" target="_blank" />
+            <?php } ?>
           <div class="card-body">
             <h5 class="card-title">Rポイントカード</h5>
             <p class="card-text">楽天ポイント</p>
